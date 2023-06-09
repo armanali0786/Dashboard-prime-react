@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin: 10% 10%;
+}
+
+.selection{
+  display:flex;
+  justify-content: baseline;
+}
+
+.table{
+  
+  margin: 5% 10%;
+}
