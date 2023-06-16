@@ -1,7 +1,10 @@
 # Dashboard-prime-react
 In this project ,I have created a Dashboard using react which show the signup user by month via Line Chart and Pie Chart and also the Tables of User Data
+Line Chart :- ![LineChart](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/b8f856ee-b97f-4f7c-810b-4d7dd4575d31)
 
-![Screenshot 2023-05-25 at 19-19-47 React App](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/5c9b593f-3dfc-4e13-97ed-1f50c054dc01)
-![Screenshot 2023-05-25 at 19-19-38 React App](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/276229a5-fb63-4581-8e7a-19c01a17eb8d)
-![Screenshot 2023-05-25 at 19-19-26 React App](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/f918b979-71b7-4213-885e-d513daa1ea00)
-![Screenshot 2023-05-25 at 19-20-05 React App](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/fc22e6bc-0c88-4df6-a3e8-ee3fe12d146e)
+Bar Chart:- ![BarChart](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/fff44cc0-2e61-49e2-9a39-4ca9c93160d6)
+
+PieChart:- 
+![PieChart](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/2f279d97-1b3f-4d03-8aee-ae9a2a85955d)
+
+UsersTable:- ![UserTable](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/f20d6cfb-e7ec-40c3-9c6a-2ed07dbca371)
