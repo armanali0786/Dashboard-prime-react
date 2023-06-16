@@ -1,5 +1,5 @@
 # Dashboard-prime-react
-In this project ,I have created a Dashboard using react which show the signup user by month via Line Chart and Pie Chart and also the Tables of User Data
+In this project ,I have created a Dashboard using MERN Stack which show the signup user by month via Line Chart and Pie Chart and also the Tables of User Data
 Line Chart :- ![LineChart](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/b8f856ee-b97f-4f7c-810b-4d7dd4575d31)
 
 Bar Chart:- ![BarChart](https://github.com/armanali0786/Dashboard-prime-react/assets/76746226/fff44cc0-2e61-49e2-9a39-4ca9c93160d6)
